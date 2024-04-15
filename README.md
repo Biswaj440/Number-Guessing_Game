@@ -24,14 +24,14 @@ Game Over
 
 After completing the specified number of rounds, the game ends, and your total score is displayed.
 Customize the Game
-You can customize the game by adjusting the following constants in the Numbergussinggame class:
+You can customize the game by adjusting the following constants in the Numberguessinggame class:
 
 MIN_RANGE: Minimum value for the random number generation.
 MAX_RANGE: Maximum value for the random number generation.
 MAX_ATTEMPTS: Maximum attempts allowed to guess the number in each round.
 MAX_ROUNDS: Total number of rounds in the game.
 Running the Program
-Compile the Java file (Numbergussinggame.java).
+Compile the Java file (Numberguessinggame.java).
 Run the compiled Java program.
 Contributing
 Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are welcomed and appreciated!
